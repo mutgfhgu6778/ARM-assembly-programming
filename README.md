@@ -1,3 +1,13 @@
+# 留学生日常作业/课程设计/代码辅导/CS/DS/商科，仅为漂洋过海的你❥
+标签：Computer Science、Data Science、Business Administration，留学生编程作业代写&&辅导
+
+## 个人介绍:
+本人是一名资深码农，酷爱投资。
+
+[为您提供 CS , DS , 商科 编程作业代写](http://dzuoye.work "编程代写")
+
+<img src="design2023866.jpg"  width="200" />
+
 # Lab 2: ARM assembly programming
 
 ## Introduction and documentation
@@ -691,6 +701,22 @@ You should submit one file per task on myCourses.
 Each file, should contain your solution, **without** the sample code preprended.
 We will mark your submission automatically and preprend the tester code ourself (and testing different input).
 Hence you should not include the sample code otherwise you will fail the test.
+## 作业代写价格:
+|类型|美元|人民币|
+|-----:|-----:|-----:|
+|Assignment|$40-$120|¥400-¥800|
+
+### 为了方便快速定价和确定是否代做，麻烦提供私聊的时候提供以下信息：
+如果是作业，提供本次作业要求文档；如果是考试，提供考试范围和考试时间
+一两句话概括一下作业任务或者考试任务，比如”可以帮忙实现一个决策树算法吗？”、”网络安全选择题考试，范围是内网横向移动知识点”
+### 作业定价有两种方式：
+    - 根据定价标准进行
+    - 通过微信我们一起协商
+## 联系方式
+[为您提供 CS , DS , 商科 编程作业代写](http://dzuoye.work "编程代写")
+微信（WeChat）：design2023866
+
+<img src="design2023866.jpg"  width="200" />
 
 
 
